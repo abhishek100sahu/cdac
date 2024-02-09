@@ -1,0 +1,4 @@
+2023-10-12 12:22:06 <module> INFO info logging
+2023-10-12 12:22:06 <module> WARNING warnings logging
+2023-10-12 12:22:06 <module> ERROR error logging
+2023-10-12 12:22:06 <module> CRITICAL critical

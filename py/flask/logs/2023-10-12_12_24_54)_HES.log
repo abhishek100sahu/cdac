@@ -1,0 +1,4 @@
+2023-10-12 12:24:54 <module> INFO info logging logging1.py
+2023-10-12 12:24:54 <module> WARNING warnings logging logging1.py
+2023-10-12 12:24:54 <module> ERROR error logging logging1.py
+2023-10-12 12:24:54 <module> CRITICAL critical logging1.py
